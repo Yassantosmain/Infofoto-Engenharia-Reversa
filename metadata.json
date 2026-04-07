@@ -1,0 +1,5 @@
+{
+  "name": "InfoFoto",
+  "description": "Ferramenta técnica para extração e análise de metadados de fotos e vídeos.",
+  "requestFramePermissions": []
+}
